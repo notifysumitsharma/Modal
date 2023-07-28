@@ -1,1 +1,1 @@
-# Modal
+# Modal(JS) Example
